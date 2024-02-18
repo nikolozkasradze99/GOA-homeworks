@@ -1,0 +1,5 @@
+p r i n t("claass")
+p r i n t("school")
+p r i n t("football")
+p r i n t("friends")
+p r i n t("phone")
